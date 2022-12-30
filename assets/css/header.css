@@ -37,6 +37,7 @@
 
 .lista-menu_titulo {
     color: var(--laranja);
+    font-weight: 700;
 }
 
 .lista-menu_link {
@@ -50,4 +51,8 @@
 .lista-menu_titulo, .lista-menu_item {
     padding: 16px;
     background-color: var(--branco);
+}
+
+.container_botao {
+    display: none;
 }
