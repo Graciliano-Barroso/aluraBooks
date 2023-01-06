@@ -4,12 +4,12 @@ hr {
 
 .rodape {
     font-family: var(--fonte-principal);
-    background-color: var(--cor-funndo-rodape);
+    background-color: var(--cor-fundo-rodape);
 }
 
 .rodape_titulo {
     font-weight: 400;
     font-size: 1em;
     line-height: 1.5em;
-    margin: 17px 24px;
+    padding: 17px 24px;
 }

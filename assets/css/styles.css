@@ -12,7 +12,9 @@
     --laranja: #eb9b00;
     --fonte-principal: "Poppins";
     --azul: #002f52;
-    --cor-funndo-rodape: #f9f9f9;
+    --cor-fundo-rodape: #f9f9f9;
+    --fonte-secundaria: "Josefin Sans";
+    --preto: #000000;
 }
 
 .primeira_secao {
