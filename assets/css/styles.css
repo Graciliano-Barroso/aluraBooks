@@ -19,6 +19,10 @@
     --cinza-claro: #858585;
 }
 
+.body {
+    background-color: var(--branco);
+}
+
 .primeira_secao {
     background-color: var(--cor-de-fundo);
     font-family: var(--fonte-principal);
