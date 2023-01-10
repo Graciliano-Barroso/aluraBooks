@@ -24,6 +24,10 @@
     padding: 16px;
 }
 
+.container_texto {
+    display: none;
+}
+
 .lista-menu {
     width: 60vw;
     display: none;
@@ -111,4 +115,25 @@
         display: none;
     }
 
+}
+
+@media screen and (min-width: 1728px) {
+    .container_link {
+        display: flex;
+        align-items: center;
+        text-decoration: none;
+    }
+
+    .cabecalho {
+        padding: 0 2em;
+    }
+
+    .opcoes {
+        margin-left: 3em;
+        margin-right: auto;
+    }
+
+    .container_texto {
+        display: block;
+    }
 }
